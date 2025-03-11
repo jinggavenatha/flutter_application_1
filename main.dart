@@ -73,7 +73,7 @@ class ProfileScreen extends StatelessWidget {
                   _buildMenuItem(Icons.location_on, 'Singaraja', Colors.green),
                   _buildMenuItem(Icons.store, 'Banyuasri', Colors.orange),
                   _buildMenuItem(Icons.music_note, 'Rock', Colors.purple),
-                  _buildMenuItem(Icons.school, 'Universitas Pendidikan Ganesha', Colors.blue),
+                  _buildMenuItem(Icons.school, 'UNDIKSHA', Colors.blue),
                 ],
               ),
             ],
